@@ -1,0 +1,20 @@
+MISSIONE MUSICA — WEB APP AUTONOMA PER GITHUB PAGES
+
+Questo progetto è indipendente da Missione Puccini. Non necessita di cartelle esterne.
+
+PUBBLICAZIONE IN UN NUOVO REPOSITORY
+1. Crea un repository GitHub pubblico, ad esempio missione-musica-cigo.
+2. Carica TUTTI i contenuti di questa cartella nella RADICE del repository: index.html, scelta-musica.webp, cartelle artisti e note.
+   NON caricare una cartella contenitore: index.html deve trovarsi alla radice.
+3. Vai in Settings > Pages > Build and deployment > Deploy from a branch.
+4. Seleziona main e / (root), poi Save.
+5. Attendi la pubblicazione. L'indirizzo sarà https://TUO-UTENTE.github.io/NOME-REPOSITORY/
+
+FUNZIONI
+- Scelta illustrata: Caccia alla nota / Indovina l'artista.
+- Caccia alla nota: 5 domande casuali fra 12 note con suoni WAV.
+- Artisti: 12 compositori e 12 cantanti, indizi, tre risposte, medaglia da 6/12.
+- Tutti i file multimediali sono locali al repository; nessun servizio esterno necessario.
+
+ATTENZIONE: per le fotografie degli artisti verificare i diritti e le licenze prima della pubblicazione pubblica.
+Crediti: Prof. Marco Cigolotti — CIGO STUDIO · Creato con il supporto di AI
